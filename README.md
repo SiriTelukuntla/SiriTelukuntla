@@ -1,7 +1,7 @@
 Hey there, I’m @SiriTelukuntla
-I'm a student with a passion for Web development.
+I'm a student with a passion for Software development
 I'm currently pursuing my Bachelor's in Electrical & Electronics Engineering  in Sri Venkateswara Engineering college, Suryapet. 
-Techstack: C++,HTML/CSS,Javascript,machine Learning.
+Techstack: C++,HTML/CSS,Javascript,machine Learning, Java, python, C
 Currently working as a Frontend Developer.
 Now learning various skills to advance my Backend development defts.
 Pronouns: She/Her
